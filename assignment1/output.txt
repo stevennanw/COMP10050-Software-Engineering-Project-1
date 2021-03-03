@@ -1,0 +1,47 @@
+Question 1
+
+cat
+O, Draconian devil! Oh, lame saint!
+tac
+Tom Marvolo Riddle
+Software engineering
+Leonardo da Vinci! The Mona Lisa!
+Computer science
+UCD
+Act
+cuddle
+Hey there!
+Old Immortal dovers
+I am Lord Voldemort
+duck
+
+Question2
+
+The list of ordered strings is:
+Act
+cat
+Computer science
+cuddle
+duck
+Hey there!
+I am Lord Voldemort
+Leonardo da Vinci! The Mona Lisa!
+O, Draconian devil! Oh, lame saint!
+Old Immortal dovers
+Software engineering
+tac
+Tom Marvolo Riddle
+UCD
+
+Question3
+
+"Act" "cat" "tac" 
+"I am Lord Voldemort" "Tom Marvolo Riddle" 
+"Leonardo da Vinci! The Mona Lisa!" "O, Draconian devil! Oh, lame saint!" 
+
+Question4
+
+"Old Immortal dovers" is an anagram of "I am Lord Voldemort" if 1 characters removed
+"Old Immortal dovers" is an anagram of "Tom Marvolo Riddle" if 1 characters removed
+"cuddle" is an anagram of "UCD" if 3 characters removed
+"duck" is an anagram of "UCD" if 1 characters removed
